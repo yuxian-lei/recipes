@@ -8,3 +8,4 @@
 * salt
 
 ## Instructions
+* purchase the chickpeas
